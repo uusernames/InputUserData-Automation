@@ -1,4 +1,6 @@
 # inputuserdata
-does not use cmd
-inputs users data into excel sheet on computer called userdata using WINDOWS COM 
-asks for users name, email, and age
+
+Does not use cmd.  
+Inputs users data into an Excel sheet on your computer called **userdata** using **Windows COM**.  
+
+Asks for user's **name**, **email**, and **age**.
